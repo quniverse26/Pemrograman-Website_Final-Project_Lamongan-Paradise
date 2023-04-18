@@ -1,0 +1,2 @@
+# Pemrograman-Website_Final-Project_Lamongan-Paradise
+Sistem informasi pariwisata daerah Kabupaten Lamongan berbasis web sangat  diperlukan sebagai sarana penyampaian informasi kepada masyarakat yang ingin  mengetahui daerah-daerah pariwisata yang ada di Kabupaten Lamongan. Sistem informasi  ini juga merupakan suatu bentuk promosi, di mana salah satu media perantaranya yaitu  laptop atau komputer.
